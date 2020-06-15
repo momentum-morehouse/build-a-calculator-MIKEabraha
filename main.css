@@ -2,7 +2,7 @@
 width:450px;
 height:550px;
 flex-flow:row wrap;
-background-color: brown;
+background-color: rgb(239, 243, 22);
 border: 6px solid seagreen;
 justify-content: space-around;
 display: flex;
@@ -14,7 +14,7 @@ display: flex;
 display: flex;
 width:100px;
 height:100px;
-border: 3px solid blanchedalmond;
+border: 3px solid red;
 font-size: 36px;
 align-items:center;
 }
@@ -23,8 +23,8 @@ align-items:center;
 
 width:300px;
 height:100px; 
-background-color:aquamarine;
-border: 1px solid salmon;
+background-color: red;
+border: 1px solid black;
 
 }
 
